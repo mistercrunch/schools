@@ -1,0 +1,1372 @@
+
+--- Page 71 ---
+(1)
+(2)
+(3)
+(4)
+ESTIMATED
+ACTUAL PRIOR
+CURRENT 
+PROPRIETARY FUND
+YEAR ENDING
+YEAR ENDING
+TENTATIVE 
+FINAL 
+06/30/24
+06/30/25
+APPROVED
+APPROVED
+Operating Revenue
+Local Sources
+1600
+Food Service Revenues
+Insurance Premiums
+416,572
+                
+360,000
+                
+360,000
+                
+360,000
+                
+Claims Refunds
+8,221
+                    
+10,000
+                  
+10,000
+                  
+10,000
+                  
+( A )
+Total Operating Revenue
+424,793
+                
+370,000
+                
+370,000
+                
+370,000
+                
+Operating Expense (Object Codes)
+100
+Salaries
+200
+Benefits
+300-500 Purchased Services
+177,560
+                
+518,800
+                
+518,800
+                
+518,800
+                
+600
+Supplies
+790
+Depreciation - Amortization
+900
+Other
+( B )
+Total Operating Expenses
+177,560
+                
+518,800
+                
+518,800
+                
+518,800
+                
+Operating Income (Loss)
+247,233
+                
+(148,800)
+               
+(148,800)
+               
+(148,800)
+               
+Nonoperating Revenue
+1510
+Interest earned
+47,650
+                  
+20,000
+                  
+30,000
+                  
+30,000
+                  
+Subsidies
+3000
+Revenue from State Sources
+4000
+Federal Sources
+( C )
+Total Nonoperating Revenue
+47,650
+                  
+20,000
+                  
+30,000
+                  
+30,000
+                  
+Nonoperating Expense
+832
+Interest Expense
+Other Expense
+( D )
+Total Nonoperating Expense
+Transfers
+5200
+From Other Funds
+910
+To Other Funds
+( E )
+Net Operating Transfers
+( F )
+Net Income
+294,883
+                
+(128,800)
+               
+(118,800)
+               
+(118,800)
+               
+Retained Earnings
+Beginning July 1
+988,607
+1,283,491
+1,154,691
+1,154,691
+Ending June 30
+1,283,490
+1,154,691
+1,035,891
+1,035,891
+School District
+Enterprise Fund
+Statement of Revenue Expenses and Net Income
+Page: _______
+Schedule J-1
+BUDGET YEAR ENDING 06/30/26
+Douglas County
+Workers Compensation
+71 of 80
+5/7/2025
+
+--- Page 72 ---
+(1)
+(2)
+(3)
+(4)
+ESTIMATED
+ACTUAL PRIOR
+CURRENT 
+PROPRIETARY FUND
+YEAR ENDING
+YEAR ENDING
+TENTATIVE 
+FINAL 
+06/30/24
+06/30/25
+APPROVED
+APPROVED
+A.
+Transfers from other funds
+Cash Revenue - Premiums
+389,657
+                   
+360,000
+                   
+360,000
+                   
+360,000
+                   
+Claims Refunds
+11,257
+                     
+10,000
+                     
+10,000
+                     
+10,000
+                     
+Cash Paid - Benefits - Claims
+(206,500)
+                  
+(518,800)
+                  
+(518,800)
+                  
+(518,800)
+                  
+Purchased Services & Supplies
+(92,576)
+                    
+a.
+101,838
+                   
+(148,800)
+                  
+(148,800)
+                  
+(148,800)
+                  
+B.
+Interest on investments
+47,650
+                     
+20,000
+                     
+20,000
+                     
+20,000
+                     
+b.
+47,650
+                     
+20,000
+                     
+20,000
+                     
+20,000
+                     
+C.
+c.
+-
+                               
+-
+                               
+-
+                               
+-
+                               
+D.
+d.
+-
+                               
+-
+                               
+-
+                               
+-
+                               
+149,488
+                   
+(128,800)
+                  
+(128,800)
+                  
+(128,800)
+                  
+1,604,836
+                
+1,754,324
+                
+1,625,524
+                
+1,625,524
+                
+1,754,324
+                
+1,625,524
+                
+1,496,724
+                
+1,496,724
+                
+School District
+Enterprise Fund
+Statement of Cash Flows
+Page: _______
+Schedule J-2
+CASH AND CASH EQUIVALENTS AT              
+JUNE 30, 20XX
+Douglas County
+Workers Compensation
+CASH FLOWS FROM CAPITAL AND 
+RELATED FINANCING ACTIVITIES
+Net cash provided by (or used for) 
+capital and related financing activities
+CASH FLOWS FROM INVESTING 
+ACTIVITIES
+Net cash provided by (or used for) 
+investing activities
+NET INCREASE (DECREASE) in cash and cash 
+equivalents (a+b+c+d)
+CASH AND CASH EQUIVALENTS AT               
+JULY 1, 20XX
+Net cash provided by (or used for) 
+noncapital financing activities
+BUDGET YEAR ENDING 06/30/26
+CASH FLOWS FROM OPERATING 
+ACTIVIES:
+Net cash provided by (or used for) 
+operating activities
+CASH FLOWS FROM NONCAPITAL 
+FINANCING ACTIVITIES
+72 of 80
+5/7/2025
+
+--- Page 73 ---
+(1)
+(2)
+(3)
+(4)
+ESTIMATED
+ACTUAL PRIOR
+CURRENT 
+PROPRIETARY FUND
+YEAR ENDING
+YEAR ENDING
+TENTATIVE 
+FINAL 
+06/30/24
+06/30/25
+APPROVED
+APPROVED
+Operating Revenue
+Local Sources
+1600
+Food Service Revenues
+Insurance Premiums
+8,593,645
+             
+8,810,000
+             
+8,810,000
+             
+8,810,000
+             
+Insurance Proceeds
+217,798
+                
+-
+                            
+( A )
+Total Operating Revenue
+8,811,443
+             
+8,810,000
+             
+8,810,000
+             
+8,810,000
+             
+Operating Expense (Object Codes)
+100
+Salaries
+200
+Benefits
+300-500 Purchased Services
+9,185,141
+             
+9,355,000
+             
+9,705,000
+             
+9,705,000
+             
+600
+Supplies
+790
+Depreciation - Amortization
+900
+Other
+3,920
+                    
+9,030
+                    
+9,030
+                    
+9,030
+                    
+( B )
+Total Operating Expenses
+9,189,061
+             
+9,364,030
+             
+9,714,030
+             
+9,714,030
+             
+Operating Income (Loss)
+(377,618)
+               
+(554,030)
+               
+(904,030)
+               
+(904,030)
+               
+Nonoperating Revenue
+1510
+Interest earned
+18,425
+                  
+10,000
+                  
+10,000
+                  
+10,000
+                  
+Subsidies
+3000
+Revenue from State Sources
+4000
+Federal Sources
+( C )
+Total Nonoperating Revenue
+18,425
+                  
+10,000
+                  
+10,000
+                  
+10,000
+                  
+Nonoperating Expense
+832
+Interest Expense
+Other Expense
+( D )
+Total Nonoperating Expense
+Transfers
+5200
+From Other Funds
+1,000,000
+             
+1,000,000
+             
+1,000,000
+             
+1,000,000
+             
+910
+To Other Funds
+( E )
+Net Operating Transfers
+( F )
+Net Income
+640,807
+                
+455,970
+                
+105,970
+                
+105,970
+                
+Retained Earnings
+Beginning July 1
+322,101
+962,908
+1,418,878
+1,418,878
+Ending June 30
+962,908
+1,418,878
+1,524,848
+1,524,848
+School District
+Enterprise Fund
+Statement of Revenue Expenses and Net Income
+Page: _______
+Schedule J-1
+BUDGET YEAR ENDING 06/30/26
+Douglas County
+Self Insurance
+73 of 80
+5/7/2025
+
+--- Page 74 ---
+(1)
+(2)
+(3)
+(4)
+ESTIMATED
+ACTUAL PRIOR
+CURRENT 
+PROPRIETARY FUND
+YEAR ENDING
+YEAR ENDING
+TENTATIVE 
+FINAL 
+06/30/24
+06/30/25
+APPROVED
+APPROVED
+A.
+Transfers from other funds
+1,000,000
+                
+1,000,000
+                
+1,000,000
+                
+1,000,000
+                
+Cash Revenue - Premiums
+8,593,645
+                
+8,810,000
+                
+8,810,000
+                
+8,810,000
+                
+Insurance Proceeds
+224,716
+                   
+-
+                               
+-
+                               
+-
+                               
+Cash Paid - Benefits - Claims
+(8,233,641)
+               
+(8,100,000)
+               
+(8,450,000)
+               
+(8,450,000)
+               
+Purchased Services & Supplies
+(1,050,172)
+               
+(1,264,030)
+               
+(1,264,030)
+               
+(1,264,030)
+               
+a.
+534,548
+                   
+445,970
+                   
+95,970
+                     
+95,970
+                     
+B.
+Interest on investments
+18,425
+                     
+10,000
+                     
+10,000
+                     
+10,000
+                     
+b.
+18,425
+                     
+10,000
+                     
+10,000
+                     
+10,000
+                     
+C.
+c.
+D.
+d.
+552,973
+                   
+455,970
+                   
+105,970
+                   
+105,970
+                   
+1,320,681
+                
+1,873,654
+                
+2,329,624
+                
+2,329,624
+                
+1,873,654
+                
+2,329,624
+                
+2,435,594
+                
+2,435,594
+                
+School District
+Enterprise Fund
+Statement of Cash Flows
+Page: _______
+Schedule J-2
+CASH AND CASH EQUIVALENTS AT              
+JUNE 30, 20XX
+Douglas County
+Self Insurance
+CASH FLOWS FROM CAPITAL AND 
+RELATED FINANCING ACTIVITIES
+Net cash provided by (or used for) 
+capital and related financing activities
+CASH FLOWS FROM INVESTING 
+ACTIVITIES
+Net cash provided by (or used for) 
+investing activities
+NET INCREASE (DECREASE) in cash and cash 
+equivalents (a+b+c+d)
+CASH AND CASH EQUIVALENTS AT               
+JULY 1, 20XX
+Net cash provided by (or used for) 
+noncapital financing activities
+BUDGET YEAR ENDING 06/30/26
+CASH FLOWS FROM OPERATING 
+ACTIVIES:
+Net cash provided by (or used for) 
+operating activities
+CASH FLOWS FROM NONCAPITAL 
+FINANCING ACTIVITIES
+74 of 80
+5/7/2025
+
+--- Page 75 ---
+(1)
+(2)
+(3)
+(4)
+ESTIMATED
+ACTUAL PRIOR
+CURRENT 
+AVAILABLE RESOURCES
+YEAR ENDING
+YEAR ENDING
+TENTATIVE 
+FINAL 
+06/30/24
+06/30/25
+APPROVED
+APPROVED
+5000
+COMBINED BONDS
+1110
+Property Taxes
+3,863,112
+3,771,002
+3,791,002
+3,791,002
+1190
+Other Resources:
+-
+                           
+4500
+Bond Interest Subsidy
+122,174
+                
+56,600
+                  
+56,600
+                  
+56,600
+                  
+1500
+Earnings on Investments
+156,111
+                
+30,000
+                  
+30,000
+                  
+30,000
+                  
+Subtotal
+4,141,397
+             
+3,857,602
+             
+3,877,602
+             
+3,877,602
+             
+Opening Fund Balance
+4,129,831
+             
+5,113,492
+             
+5,643,995
+             
+5,643,995
+             
+Subtotal - Combined Bonds
+8,271,228
+             
+8,971,094
+             
+9,521,597
+             
+9,521,597
+             
+MEDIUM-TERM FINANCING
+1110
+Property Taxes
+1190
+Other Resources:
+Opening Fund Balance
+Subtotal - Loans
+TOTAL AVAILABLE FINANCING
+5000
+FUND EXPENDITURES
+COMBINED BONDS
+831
+Principal
+2,385,000
+             
+2,393,000
+             
+2,431,000
+             
+2,431,000
+             
+832
+Interest
+669,686
+                
+628,099
+                
+589,681
+                
+589,681
+                
+835
+Fiscal Agent Charges
+3,050
+                    
+6,000
+                    
+6,000
+                    
+6,000
+                    
+Transfer to Other Funds
+100,000
+                
+300,000
+                
+500,000
+                
+500,000
+                
+Reserves (Include Unappropriated Balance)
+5,113,492
+             
+5,643,995
+             
+5,994,916
+             
+5,994,916
+             
+Subtotal - Combined Bonds
+8,271,228
+             
+8,971,094
+             
+9,521,597
+             
+9,521,597
+             
+MEDIUM-TERM FINANCING
+831
+Principal
+832
+Interest
+Reserves (Include Unappropriated Balance)
+Subtotal - MTF
+Douglas County
+School District
+Debt Service
+Debt Servcice Fund
+Page: _______
+Schedule CC
+BUDGET YEAR ENDING 06/30/26
+75 of 80
+5/7/2025
+
+--- Page 76 ---
+*  -  Type
+ 6  -  Medium-Term Financing - Lease Purchase
+          ALL EXISTING OR PROPOSED
+1  -  General Obligation Bonds
+ 7  -  Capital Leases
+          GENERAL OBLIGATION BONDS, REVENUE BONDS
+2  -  G. O. Revenue Supported Bonds
+ 8  -  Special Assessment Bonds
+          MEDIUM-TERM FINANCING, CAPITAL LEASES AND
+3  -  G. O. Special Assessment Bonds
+ 9  -  Mortgages
+          SPECIAL ASSESSMENT BONDS
+4  -  Revenue Bonds
+10 -  Other (Specify Type)
+5  -  Medium-Term Financing
+11 -  Proposed (Specify Type)
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+ORIGINAL
+FINAL 
+NAME OF BOND OR LOAN
+AMOUNT OF
+ISSUE 
+PAYMENT
+INTEREST 
+List and Subtotal By Fund
+*
+TERM
+ISSUE
+DATE
+DATE
+RATE
+FUND:
+$
+$
+$
+$
+2010 C - Bond
+1
+17 yrs
+2,305,000
+       
+05/13/10
+04/01/27
+5.48%
+$
+2,000,000
+       
+$
+128,420
+          
+$
+-
+                     
+$
+128,420
+          
+2012 Bond
+1
+30 yrs
+9,000,000
+       
+12/19/12
+04/01/42
+2.56%
+$
+5,605,000
+       
+$
+170,375
+          
+$
+150,000
+          
+$
+320,375
+          
+2015 Bond
+1
+20 yrs
+5,000,000
+       
+02/19/15
+04/01/35
+2.63%
+$
+3,205,000
+       
+$
+91,860
+            
+$
+315,000
+          
+$
+406,860
+          
+2020 Refunding Bonds
+1
+10 yrs
+11,858,000
+     
+12/03/20
+04/01/30
+1.34%
+$
+6,064,000
+       
+$
+81,258
+            
+$
+1,476,000
+       
+$
+1,557,258
+       
+2021 Tax-Exempt Ref Bond
+1
+13 yrs
+7,516,000
+       
+12/08/21
+04/01/34
+1.80%
+$
+6,847,000
+       
+$
+117,768
+          
+$
+490,000
+          
+$
+607,768
+          
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+TOTAL ALL DEBT SERVICE
+$
+23,721,000
+     
+$
+589,681
+          
+$
+2,431,000
+       
+$
+3,020,681
+       
+SCHEDULE C-1 INDEBTEDNESS
+School District
+Page: _______
+SCHEDULE C-1
+TOTAL
+Douglas County
+OUTSTANDING
+BALANCE
+INTEREST 
+PRINCIPAL 
+7/1/2025
+PAYABLE
+PAYABLE
+BEGINNING
+YEAR ENDING 06/30/26
+(9)
+(10)
+(11)
+REQUIREMENTS FOR FISCAL
+(9)+(10)
+76 of 80
+5/7/2025
+
+--- Page 77 ---
+REPORT FOR ALL FUNDS
+(1) 
+(2)
+(3)
+(4)
+TUITION
+TRANSPORTATION
+TUITION
+TRANSPORTATION
+REVENUES
+CODES
+1321
+1421
+1331
+1431
+EXPENDITURES
+OBJECT CODE
+561
+511
+562
+512
+100 - Regular Programs
+195,000
+                     
+200 - Special Programs
+300 - Vocational Programs
+400 - Other PK-12 Programs
+500 - Nonpublic Programs
+600 - Adult Programs
+TOTALS
+195,000
+                     
+School District
+Interdistrict Payments - All Funds
+Page: _______
+Schedule I
+TO/FROM DISTRICTS IN NEVADA
+TO/FROM DISTRICTS OUTSIDE NEVADA
+Douglas County
+77 of 80
+5/7/2025
+
+--- Page 78 ---
+Transfer Schedule for Fiscal Year FY 2025-2026
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+FUND TYPE
+FROM FUND
+PAGE
+AMOUNT
+TO FUND
+PAGE
+AMOUNT
+GENERAL FUND
+Special Education
+19
+5,600,000
+Insurance Fund
+19
+1,000,000
+Debt Service
+75
+500,000
+SUBTOTAL
+7,100,000
+SPECIAL REVENUE FUNDS
+Special Education
+46
+5,600,000
+Capital Projects
+26
+500,000
+Insurance Fund
+73
+1,000,000
+SUBTOTAL
+TOTAL TRANSFERS
+7,100,000
+School District
+Transfer Reconciliation (Operating & Residual Equity)
+Page: _______
+Schedule T
+T R A N S F E R S   I N
+T R A N S F E R S   O U T
+Douglas County
+78 of 80
+5/7/2025
+
+--- Page 79 ---
+Local Government:
+Douglas County School District
+Contract:
+Susan Estes
+E-mail Address:
+sestes@dcsd.k12.nv.us
+Daytime Telephone:
+775-782-5131
+Total Number of Existing Contracts:  25
+Effective
+Termination
+Proposed 
+Proposed
+Date of
+Date of
+Expenditure
+Expenditure
+Line
+VENDOR
+Contract
+Contract
+FY 2025-26
+FY 2026-27
+Reason or need for contract
+1 Allison Mackenzie, Ltd
+7/1/2025
+6/30/2026
+$50,000.00
+$168,000.00 General Legal Counsel
+2 Bickmore Actuarial
+7/1/2025
+6/30/2026
+$6,000.00
+$6,500.00 Actuarial Services - Workers Compensation
+3 Cannon Cochran Management Svc, Inc
+7/1/2025
+6/30/2026
+$25,000.00
+$25,000.00 Third-Party Administration of WC Benefits
+4 Carson Valley Medical Center, Inc
+7/1/2025
+6/30/2026
+$7,000.00
+$7,000.00 Testing & Drug Screening
+5 Concentra Medical Centers
+7/1/2025
+6/30/2026
+$14,000.00
+$14,000.00 Employee Physicals as needed
+6 CR Engineering
+7/1/2025
+6/30/2026
+$145,000.00
+$150,000.00 Architectural & Engineering Services fo
+7 Douglas County Clerk-Treasurer
+7/1/2025
+6/30/2026
+$75,000.00
+$85,000.00 Constuction Consulting Services
+8 E Squared C, Inc
+7/1/2025
+6/30/2026
+$7,500.00
+$7,500.00 IT Consulting Services
+9 Employers Advocates, LLC
+7/1/2025
+6/30/2026
+$7,500.00
+$7,500.00 Third-Party Unemployment Cost Management
+10 Estipona Group
+7/1/2025
+6/30/2026
+$50,000.00
+$15,000.00 Marketing Consultants
+11 Fire Extinguisher Service Center, Inc
+7/1/2025
+6/30/2026
+$18,000.00
+$18,000.00 Fire Extinguishers Services & Repairs
+12 Hometown Health Providers
+7/1/2025
+6/30/2026
+$290,000.00
+$300,000.00 Third-Party Administration of Health Insurance Benefits
+13 JNA Consulting Group
+7/1/2025
+6/30/2026
+$6,500.00
+$6,500.00 Bond and Financial Related Services
+14 Macleod Watts, Inc
+7/1/2025
+6/30/2026
+$14,000.00
+$15,000.00 Actuarial Services - Self Insurance
+15 NNBOA
+7/1/2025
+6/30/2026
+$14,500.00
+$14,500.00 Sports Related Referee Services
+16 NNSOA
+7/1/2025
+6/30/2026
+$14,000.00
+$14,000.00 Sports Related Referee Services
+17 No Nevada Baseball Umpires Assn
+7/1/2025
+6/30/2026
+$4,500.00
+$5,000.00 Sports Related Referee Services
+18 No Nevada Football Officials Assn
+7/1/2025
+6/30/2026
+$6,600.00
+$6,600.00 Sports Related Referee Services
+19 Paul Cavin Architect, LLC
+7/1/2025
+6/30/2026
+$180,000.00
+$180,000.00 Architectural & Engineering Services fo
+20 Records Consultants, Inc
+7/1/2025
+6/30/2026
+$6,500.00
+$7,000.00 Records Retention
+21 Silva, Sceirine & Associates, LLC
+7/1/2025
+6/30/2026
+$65,000.00
+$65,000.00 External Auditors; Required Reporting
+22 Sport Safe Testing Service
+7/1/2025
+6/30/2026
+$15,000.00
+$15,000.00 Student Drug Testing
+23 Tyler Technologies
+7/1/2025
+6/30/2026
+$143,488.00
+$150,662.00 District Software Programs
+24 University of Wisconsin-Madison
+7/1/2025
+6/30/2026
+$7,500.00
+$7,500.00 WIDA Access
+25 Vision Service
+7/1/2025
+6/30/2026
+$33,957.00
+$35,655.00 Vision Insurance
+Total Proposed Expenditures
+$1,206,545.00
+$1,325,917.00
+Additional Explanations (Reference Line Number and Vendor
+                                                                      Page _______
+Sch 31
+                                                                      Schedule 31
+SCHEDULE OF EXISTING CONTRACTS
+79 of 80
+5/7/2025
+
+--- Page 80 ---
+Local Government:  
+Contact:  
+E-mail Address:  
+Daytime Telephone:  
+      Total Number of Privatization Contracts: 
+Line
+Vendor
+Effective 
+Date of 
+Contract
+Termination 
+Date of 
+Contract
+Duration 
+(Months/ 
+Years)
+Proposed 
+Expenditure   
+FY 2025-26
+Proposed 
+Expenditure   
+FY 2026-27
+Position 
+Class or 
+Grade
+Number of 
+FTEs 
+employed 
+by Position 
+Class or 
+Grade
+Equivalent 
+hourly wage of 
+FTEs by 
+Position Class 
+or Grade
+Reason or need for 
+contract: 
+1
+Hannah Kenyon
+7/1/2025
+6/30/2026 12 Mo
+85,000
+80,000 Speech
+1
+$88.00 Sped required svcs
+Lang
+2
+Angela Schumacher
+7/1/2025
+6/30/2026 12 Mo
+8,700
+8,700 Nurse
+1
+$55,00 Sped required svcs
+Sp Svc
+3
+Shawn Goldhammer
+7/1/2025
+6/30/2026 12 Mo
+$12,000
+$8,000 DHH
+1
+$125.00 Sped required svcs
+Deaf/HH
+1
+4
+Edgar Vargas
+7/1/2025
+6/30/2026 12 Mo
+$18,000
+0 Vision
+1
+0 Sped required svcs
+5
+Carolyn Porter
+7/1/2025
+6/30/2026 12 Mo
+$35,000
+0 Psych
+1
+$85.00 Sped required svcs
+6
+7
+8
+Total 
+158,700
+96,700
+Attach additional sheets if necessary.  
+Page: ______
+Schedule 32
+775-782-5131
+SCHEDULE OF PRIVATIZATION CONTRACTS
+Douglas County School District
+Susan Estes
+sestes@dcsd.k12.nv.us
+80 of 80
+5/7/2025
